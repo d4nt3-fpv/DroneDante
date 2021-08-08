@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DroneDante
-- 👀 I’m interested in Computers, Robots and drones.
-- 🌱 I’m currently learning swift, c# and js.
+- Hi, I’m @DroneDante
+- I’m interested in Computers, Robots and drones.
+- I'm going to the RecknitzCampus Laage school.
+- I’m currently learning swift, c# and js.
 
 
 <!---
